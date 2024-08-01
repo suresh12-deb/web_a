@@ -1,5 +1,4 @@
-# web_a
-Certainly! Here's a detailed description of your e-commerce website project that you can use for your resume:
+# Ecommerce Website
 
 ---
 
@@ -45,5 +44,3 @@ Developed a responsive e-commerce website using modern web development technolog
 - The website's clean and intuitive design facilitated easy navigation and product discovery, enhancing the overall user experience.
 
 ---
-
-Feel free to modify or add any specific details that reflect your contributions and experience. This description highlights your skills in frontend development, UI/UX design, and responsive web design, making it a valuable addition to your resume.
